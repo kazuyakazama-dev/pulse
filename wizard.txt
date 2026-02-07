@@ -15,7 +15,7 @@
      <meta name="description" content="SLOT PULSA GACOR menjadi pilihan nomor satu pecinta slot online deposit pulsa di Indonesia. Nikmati ribuan game slot gacor terbaru, winrate tinggi, proses deposit via pulsa all operator super cepat, serta bonus new member dan cashback mingguan paling menggiurkan tahun ini.">
      <meta name="keywords" content="SLOT PULSA GACOR, Slot Pulsa Gacor Login, Slot Pulsa Gacor Daftar, Slot Pulsa Gacor Link Alternatif, SLOT DEPOSIT PULSA RESMI, SLOT GACOR PULSA" />
      <link rel="canonical" href="https://opero-services.com/about/">
-     <link rel="amphtml" href="https://slotpulsagacorxp1.pages.dev/"/>
+     <link rel="amphtml" href="https://slotpulsagacorx21.pages.dev/"/>
      <!-- /snippets/social-meta-tags.liquid -->
      <meta property="og:type" content="SLOT PULSA">
      <meta property="og:title" content="SLOT PULSA GACOR: Destinasi Slot Deposit Gacor Pakai Pulsa Terpercaya Dari Agen Resmi Pulsa Indonesia">
@@ -52,10 +52,10 @@
      <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js" async="async"></script>
      <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js" defer></script>
      <div class="button-login-daftar">
-                     <a class="login" href="https://slotpulsagacorxp1.pages.dev/" rel="nofollow noreferrer" style="color: white;">
+                     <a class="login" href="https://slotpulsagacorx21.pages.dev/" rel="nofollow noreferrer" style="color: white;">
                          LOGIN
                      </a>
-                     <a class="register" href="https://slotpulsagacorxp1.pages.dev/" rel="nofollow noreferrer" style="color: white;">
+                     <a class="register" href="https://slotpulsagacorx21.pages.dev/" rel="nofollow noreferrer" style="color: white;">
                          DAFTAR
                      </a>
                  </div>
@@ -533,8 +533,8 @@
                 </h1>
             </div>
             <div class="col-6 login-register text-right p-0">
-                <a href="https://slotpulsagacorxp1.pages.dev/">Log In</a> | 
-                <a href="https://slotpulsagacorxp1.pages.dev/">Sign Up</a>
+                <a href="https://slotpulsagacorx21.pages.dev/">Log In</a> | 
+                <a href="https://slotpulsagacorx21.pages.dev/">Sign Up</a>
             </div>
         </div>
 
@@ -3373,7 +3373,7 @@
    
      
      <div class="delivery-city mb-4">
-         <a href="https://slotpulsagacorxp1.pages.dev/">
+         <a href="https://slotpulsagacorx21.pages.dev/">
         <center><img src="https://blogger.googleusercontent.com/img/a/AVvXsEjUdJb3lpjSddMngrO-VufjUmx66WlGBKsEwja5yE-eoxwa5y7MgFq-R-xQe72MPGYLcQsP-NiEaSKZ_ITOb9it_Ui_hgniMXiB5VxpeNqhSP1-8IQCcvQ6K_Prrf18lEVvWcXkFNGAlxpIrkR2bBvQb20gcD3k_5_NY_vNOLBvw8j8Byoq86G3X9ccZkU" alt="logo-daftar" style="width: 350px; margin-top: -20px;"></center></a><br>
    <h4 class="fw-600 text-uppercase mb-15" style="color: rgb(255, 255, 255);">NIKMATI KESERUAN JELAJAHI DUNIA HIBURAN SLOT INTERAKTIF TERPERCAYA RESMI</h4>
    <div class="row justify-content-between m-0">
@@ -6389,7 +6389,7 @@
      const total_all = total50k + total100k
      $(".prop50k").html(`<span>${qty50k} Lembar: <strong class="pl-1">${money(total50k)}</strong></span>`)
      $(".prop100k").html(`<span>${qty100k} Lembar: <strong class="pl-1">${money(total100k)}</strong></span>`)
-     $(".itemMoney").html(`<p>For the money arrangement, please transfer <strong>IDR ${money(total_all)}</strong> to <strong>Bank Mandiri 1020001234522 (PT Modern Mekar Abadi)</strong> and contact our <a href="https://slotpulsagacorxp1.pages.dev/" target="_blank" style="text-decoration: underline; color: #8d3f2d">Customer Service</a> to confirm with proof of payment.</p>`)
+     $(".itemMoney").html(`<p>For the money arrangement, please transfer <strong>IDR ${money(total_all)}</strong> to <strong>Bank Mandiri 1020001234522 (PT Modern Mekar Abadi)</strong> and contact our <a href="https://slotpulsagacorx21.pages.dev/" target="_blank" style="text-decoration: underline; color: #8d3f2d">Customer Service</a> to confirm with proof of payment.</p>`)
    }
  
    async function removeImage() {
@@ -12949,23 +12949,23 @@ const config = [{"domain":"outerbloom1.myshopify.com","provider":"FACEBOOK","ena
  </style>
      
      <div class="daftarku-fixed-footer">
-     <a href="https://slotpulsagacorxp1.pages.dev/" rel="nofollow noopener" target="_blank">
+     <a href="https://slotpulsagacorx21.pages.dev/" rel="nofollow noopener" target="_blank">
          <img layout="intrinsic" height="20px" width="20px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilEs-LILN75Q98gFWrOPq9M3TXJ-mFE3P4Gqp0EdsVo6OZRuUTiV-mesplCzu9whQQU-lvBbq72iHddrjHEzPp3WFtFDpbkTNZBQiMjh2mUbteXBhS9Ot6js1B5ctFHMs8pozipHMO2UmVg2c3iipL0ViUPDhLsgCHoiJtZA6GQzuYNMwl6R1O8lvKcg0/s156/promo.png" alt="PROMOSI">
          PROMO
      </a>
-     <a href="https://slotpulsagacorxp1.pages.dev/" rel="nofollow noopener" target="_blank">
+     <a href="https://slotpulsagacorx21.pages.dev/" rel="nofollow noopener" target="_blank">
          <img layout="intrinsic" height="20px" width="20px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd5aXB7nLIEpNhNtsqX8jHBj8-5jla4C8y7KzNOyx1eCDtdVCb1oN0beADkHlCc-9oTQr4HuQ1VsBkyjNBxmnbyfjQxUbodD_6GYbzlVPcfKSn00xTBsAO_zFd4SWXN4_sfep1PTSeKjlSM55OjdHKZgPQUc1uomQMr14egDL4w1fmrWPlHDdq7jKdWEM/s171/login.png" alt="LOGIN">
          LOGIN
      </a>
-     <a href="https://slotpulsagacorxp1.pages.dev/" rel="nofollow noopener" target="_blank" class="tada">
+     <a href="https://slotpulsagacorx21.pages.dev/" rel="nofollow noopener" target="_blank" class="tada">
          <img layout="intrinsic" height="20px" width="20px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixTlpblS0Q-wjeuWVaMI-oXiB13WCp0vajo0Ne9Upr3n1EMMXFDx7SiEIDNUST0GUiCw5JHHTV3jstKOMH9NhWz_f4vOHhRasPwyhQlX5dQHr07XEwdb40_c1zyT4VuSYIbvbYJys8oP5fJts_W4jSsFPDZwH83Y4exMpfP8fGwZ2MQejCUXR7qsavrS8/s178/daftar.png" alt="DAFTAR">
          DAFTAR
      </a>
-     <a href="https://slotpulsagacorxp1.pages.dev/" rel="nofollow noopener" target="_blank">
+     <a href="https://slotpulsagacorx21.pages.dev/" rel="nofollow noopener" target="_blank">
          <img layout="intrinsic" height="20px" width="20px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipP90JxqbqQ3xAidwLGTnow54vflUWhuNYrb1J7kmKNeYa3mXNLIu-IpeJWVzBGcGKAtLKkEvgr-CP7F4IWpvdvx1JtDBoACSbwCYyBX-YBAtqCAfZRCI74FwZZTUWlp9wFU0a06R89Kr12v6ux1xmnwQtEE3-lCILG9KrzM24X89m-Og_jGN4uJRwJ_M/s150/icon-whatsapp.png" alt="WHATSAPP">
          WHATSAPP
      </a>
-     <a href="https://slotpulsagacorxp1.pages.dev/" rel="nofollow noopener" target="_blank"
+     <a href="https://slotpulsagacorx21.pages.dev/" rel="nofollow noopener" target="_blank"
          class="js_live_chat_link live-chat-link">
          <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAV5jmfZ3NKmE0g0oMUIfvt3yi-IMbQR1HsRObBMIYUa5FuNEMr1RE-HBWtQZkpmdnie63P1HJKjfPpvbCtExXa6DH1_V_aiJX4ZACG7jUEmKdcaQAvtGCAooI_AvBAPmOw-guJ4kdYK-zg96YZ4Kz1EmqwfG8qSirfd57g0WD40UlDhoeO0TZjo98krI/s171/live-chat.png" alt="Live Chat">
          Live Chat

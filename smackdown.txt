@@ -189,7 +189,7 @@
   "category": "Game",
   "brand": {
     "@type": "Brand",
-    "name": "SLOT SERVER KAMBOJA",
+    "name": "SLOT MAHJONG SERVER THAILAND",
     "url": "https://www.scolarimaquinas.com.br/contato/"
   },
   "description": "Situs Sewu88Slot resmi jadi pilihan utama pecinta slot mahjong ways terbaru 2026. Dapatkan bonus scatter merah gampang pecah, maxwin harian hingga puluhan juta rupiah dengan RTP stabil & fitur anti lag premium.",
@@ -199,7 +199,7 @@
     "url": "https://www.scolarimaquinas.com.br/contato/",
     "seller": {
       "@type": "Organization",
-      "name": "SLOT SERVER KAMBOJA"
+      "name": "SLOT MAHJONG SERVER THAILAND"
     },
     "priceCurrency": "IDR",
     "price": 0,
@@ -218,7 +218,7 @@
       "position": 1,
       "item": {
         "@id": "https://www.scolarimaquinas.com.br/contato/",
-        "name": "Situs Kamboja"
+        "name": "SITUS SLOT MAHJONG"
       }
     },
     {
@@ -427,8 +427,8 @@
         <script nonce="gPiNOjdRCrWLas5Ik2CuS+N0">!function(e){var r=e.__etsy_logging;if(r&&r.perf&&r.perf.prefixMarkMeasure){var n=r.perf.prefixMarkMeasure("logo_render");e.performance&&e.performance.mark&&e.requestAnimationFrame((function(){setTimeout((function(){e.performance.mark(n)}))}))}}(window);</script>
         <div class="wt-pb-lg-0 wt-pt-sm-1 wt-pt-lg-0 wt-pr-xs-0 wt-pr-sm-1 " data-header-logo-container>
             <a href="/" elementtiming="ux-global-nav">
-                <span class="wt-screen-reader-only">Slot Luar Negeri</span>
-                <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhglro8lHnHmfDWDo-1wlUHAx3oHOWcsA5mRpDvGJ9ZN4_fuPW7rkntF9rntt2jnroSUc34i8eTqdGNXdC-P5xyQn-mIltYaPSuSqY3EWIMliarxCTexZEgjyEq7gkhbFnJz2bRTITlbpO8AFp3CEQNpyPX-B7JmFkeu__-Ko__O-CqMZ4EHRYtnDBEoC8" alt="Slot Luar Negeri" style="max-height:40px;">
+                <span class="wt-screen-reader-only">LINK SLOT MAHJONG</span>
+                <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhglro8lHnHmfDWDo-1wlUHAx3oHOWcsA5mRpDvGJ9ZN4_fuPW7rkntF9rntt2jnroSUc34i8eTqdGNXdC-P5xyQn-mIltYaPSuSqY3EWIMliarxCTexZEgjyEq7gkhbFnJz2bRTITlbpO8AFp3CEQNpyPX-B7JmFkeu__-Ko__O-CqMZ4EHRYtnDBEoC8" alt="LINK SLOT MAHJONG" style="max-height:40px;">
             </a>
         </div>
             <nav class="wt-hide-xs wt-show-lg">
@@ -949,7 +949,7 @@ if (clientloggerIsEnabled) {
     inset 0 1px 0 rgba(255,255,255,0.6);
 }
 
-/* Gradient emas SLOT SERVER KAMBOJA klasik + metal texture */
+/* Gradient emas SLOT MAHJONG SERVER THAILAND klasik + metal texture */
 .login,
 .register {
   background: linear-gradient(135deg,
@@ -1021,9 +1021,9 @@ if (clientloggerIsEnabled) {
 
                           <div class="n-columns-2">
                                 <a href="https://sewu88slotmahjongx1.pages.dev/" rel="nofollow noreferrer"
-                                 class="login">LOGIN SERVER KAMBOJA</a>
+                                 class="login">LOGIN SLOT MAHJONG</a>
                                <a href="https://sewu88slotmahjongx1.pages.dev/" rel="nofollow noreferrer"
-                                  class="register">DAFTAR SERVER KAMBOJA</a>
+                                  class="register">DAFTAR SLOT MAHJONG</a>
                                 </div>
                              </div>
             <div data-clg-id="WtBanner" class="wt-banner wt-banner--informational-01 trust-suite-banner wt-max-width-full wt-display-flex-xs wt-align-items-center wt-justify-content-center wt-p-xs-3" id="etsywebtoolkitbannerswtbanner68cb39e94ef52" data-prop-id="etsywebtoolkitbannerswtbanner68cb39e94ef52" data-prop-type="static" data-prop-style-type="informational-01" data-prop-is-open="true"  data-wt-neu-rendered>
@@ -1031,7 +1031,7 @@ if (clientloggerIsEnabled) {
         <div class="wt-show-lg wt-show-xl wt-show-tv wt-hide-md wt-hide-sm">
             <div class="wt-display-flex-xs wt-align-items-center">
                 <p class="wt-text-title">
-                   SLOT LUAR NEGERI
+                   LINK SLOT MAHJONG
                 </p>
             </div>
         </div>
@@ -1046,7 +1046,7 @@ if (clientloggerIsEnabled) {
                             aria-describedby="trust-suite-banner-epp-popover-overlay"
                     >
                         <span class="wt-text-title">
-                                SLOT SERVER KAMBOJA
+                                SLOT MAHJONG SERVER THAILAND
                         </span>
                     </button>
                     <div id="trust-suite-banner-epp-popover-overlay" role="tooltip">
@@ -1098,7 +1098,7 @@ if (clientloggerIsEnabled) {
                             aria-describedby="trust-suite-banner-spo-popover-overlay"
                     >
                         <span class="wt-text-title">
-                    SITUS KAMBOJA
+                    SITUS SLOT MAHJONG
                         </span>
                     </button>
                     <div id="trust-suite-banner-spo-popover-overlay" role="tooltip">
@@ -1155,7 +1155,7 @@ if (clientloggerIsEnabled) {
                                 <span class="etsy-icon arrow-separator wt-sem-text-primary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></svg></span>
                         </li>
                         <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://www.scolarimaquinas.com.br/contato/">SLOT SERVER KAMBOJA SUPER GACOR</a>
+                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://www.scolarimaquinas.com.br/contato/">SLOT MAHJONG SERVER THAILAND SUPER GACOR</a>
                                 <span class="etsy-icon arrow-separator wt-sem-text-primary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></svg></span>
                         </li>
                         <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
@@ -1251,7 +1251,7 @@ if (clientloggerIsEnabled) {
                         data-palette-listing-image
                     >
                         <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded"
-                            alt="SLOT SERVER KAMBOJA"
+                            alt="SLOT MAHJONG SERVER THAILAND"
                             data-carousel-first-image
                             data-perf-group="main-product-image"
                             src="https://blogger.googleusercontent.com/img/a/AVvXsEiWBbrsqRew56M46i38d7mjjiBzhhR6cVYKiEzUtQGnhU4whjkOCNJi_YF_2vsC7zL8Afo50GgasecAc0e6zJ1EOBBrI0AxOG9eWEz3LaNC0p1qELoEiLuQJn52xG8JGePTQDibD5PLR-WPNrEWLJBYONUAQyZoYhbDAILaUMQ1zasW9Q9yn_6-VR6nzys"
@@ -1308,7 +1308,7 @@ if (clientloggerIsEnabled) {
                         data-image-id="6256816164"
                     >
                         <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center"
-                            alt="SLOT SERVER KAMBOJA"
+                            alt="SLOT MAHJONG SERVER THAILAND"
                             
                             data-delay-src="https://blogger.googleusercontent.com/img/a/AVvXsEhPVllibZeqn2AfaZ6T0eMQKeoVcqEcU9M_s8RWN9fttbuXLZFUSfs8BrgySA3PnY_GpUubXYQjR2ZVEOXSAybe1UDBeJhKYen5c9vJ1k3THgLVdsFa6pN5pBRjpvZvPgaqWuE0vRURx_Mi46foE81SkgzH2Jo1eMcM-YSnbeIRnVkf3v7X3lc3MrB5Nw0"
                             data-delay-srcset="https://blogger.googleusercontent.com/img/a/AVvXsEhPVllibZeqn2AfaZ6T0eMQKeoVcqEcU9M_s8RWN9fttbuXLZFUSfs8BrgySA3PnY_GpUubXYQjR2ZVEOXSAybe1UDBeJhKYen5c9vJ1k3THgLVdsFa6pN5pBRjpvZvPgaqWuE0vRURx_Mi46foE81SkgzH2Jo1eMcM-YSnbeIRnVkf3v7X3lc3MrB5Nw0 1x, https://i.etsystatic.com/54267703/r/il/f18987/6256816164/il_1588xN.6256816164_26ap.jpg 2x"

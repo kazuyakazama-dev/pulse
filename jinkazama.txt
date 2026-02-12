@@ -3487,7 +3487,7 @@
    
      <div id="row-delivery-time" class="row m-0 mb-3">
        <h4 class="text-center fw-600 text-uppercase col-12 mb-15">
-     SEO 4B4NGD4 
+     @Sewu88SlotTeam 
  </h4>
        <div id="deliveryTime" class="d-flex w-100 m-0"></div>
        <div class="form-group p-0">

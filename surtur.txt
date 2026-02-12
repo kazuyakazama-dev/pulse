@@ -1883,7 +1883,7 @@ document.addEventListener('DOMContentLoaded', function() {
     <div id="listing-page-cart" class="wt-display-flex-lg wt-flex-direction-column-md wt-flex-lg-3 wt-pl-md-4 wt-pr-md-4 wt-pl-lg-0 wt-pr-lg-5 wt-pl-xs-2 wt-pr-xs-2">
             <div class="wt-mb-xs-1 wt-mt-xs-1">
                 <div data-appears-component-name="Etsy-Modules-ListingPage-UrgencySignal-RecsRankingApiSpec" data-appears-event-data="{&quot;module_placement&quot;:&quot;lp_urgency_signals&quot;,&quot;datasets&quot;:[&quot;Common_Signal_CustomCandidatesSignalRankerV0&quot;],&quot;targets&quot;:[],&quot;logging_class&quot;:&quot;Etsy\\Modules\\ListingPage\\UrgencySignal\\RecsRankingApiSpec&quot;,&quot;page_listing_id&quot;:1790774795,&quot;mmx_request_uuid_map&quot;:{&quot;51316eeb-34a2-4c96-9fa3-3a44d56e2d4d&quot;:[0,1]},&quot;candidate_source_map&quot;:{&quot;signals-extractor&quot;:[0,1]},&quot;second_pass_ranker_map&quot;:{&quot;signals-ranker-v0&quot;:[0,1]},&quot;client_provided_features&quot;:{&quot;browser&quot;:{&quot;acceptLanguage&quot;:&quot;en-GB&quot;,&quot;browser&quot;:&quot;Chrome&quot;,&quot;currency&quot;:&quot;IDR&quot;,&quot;localeRegion&quot;:&quot;ID&quot;,&quot;operatingSystem&quot;:&quot;Windows 11&quot;,&quot;platform&quot;:&quot;desktop&quot;,&quot;platformEtsyApp&quot;:&quot;web&quot;,&quot;platformMobileDevice&quot;:&quot;unidentified&quot;,&quot;source&quot;:&quot;directLanding&quot;},&quot;date_time&quot;:{&quot;dayOfWeek&quot;:&quot;3&quot;,&quot;hourOfDay&quot;:&quot;22&quot;},&quot;user&quot;:{&quot;locationLatitude&quot;:null,&quot;locationLongitude&quot;:null,&quot;locationZip&quot;:&quot;unidentified&quot;,&quot;userPreferredLanguage&quot;:&quot;en-GB&quot;}},&quot;scores&quot;:[0.47744357585906982421875,0.222189426422119140625],&quot;datasets_map&quot;:{&quot;Common_Signal_CustomCandidatesSignalRankerV0&quot;:[0,1]},&quot;target_listing_id&quot;:1790774795,&quot;candidates&quot;:[&quot;in_cart_only&quot;,&quot;lp_views_only&quot;],&quot;refTag&quot;:&quot;lp_urgency_signals&quot;,&quot;signals&quot;:[&quot;in_cart_only&quot;,&quot;lp_views_only&quot;],&quot;rec_event_name&quot;:&quot;recommendations_module&quot;}" class="recs-appears-logger">
-<p class="wt-text-title-01 wt-sem-text-critical  appears-ready">888.777.121 Orang Telah Merasakan Jackpot Dalam 24 Jam Terakhir!</p>
+<p class="wt-text-title-01 wt-sem-text-critical  appears-ready">912.808.700 Orang Telah Merasakan Jackpot Dalam 24 Jam Terakhir!</p>
 </div>
             </div>
         <div class="wt-display-flex-xs wt-align-items-center">
@@ -1892,7 +1892,7 @@ document.addEventListener('DOMContentLoaded', function() {
         <p class="wt-text-title-larger wt-mr-xs-1
                 
             ">
-        <span class="wt-screen-reader-only">Price:</span>Rp 12,000
+        <span class="wt-screen-reader-only">Price:</span>Rp 17,000
     </p>
         
     <div data-clg-id="WtSpinner" class="wt-spinner wt-spinner--01 wt-display-none" aria-live="assertive" data-buy-box-price-spinner="">

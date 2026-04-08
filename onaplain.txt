@@ -8,21 +8,21 @@
         href="https://blogger.googleusercontent.com/img/a/AVvXsEgMRxDqktmI-PLxGhvHd65dAtTZyGPqyrSEvkn_zUoX0Dna3Dn_kkow3K0GWBZ_mX2YjRqleIq_DgA1jvTYiZhkCtg--cU5_ZOlR8uGmiaz5-uKH6peQ6CcyE5u02ktAyoMd_DaRqxQZzSj1mlJWb_qWmMz-8cs16Ilg3Z26L6no4Ui1CM7xegh2WWF_n4" />
     <link rel="apple-touch-icon"
         href="https://blogger.googleusercontent.com/img/a/AVvXsEgMRxDqktmI-PLxGhvHd65dAtTZyGPqyrSEvkn_zUoX0Dna3Dn_kkow3K0GWBZ_mX2YjRqleIq_DgA1jvTYiZhkCtg--cU5_ZOlR8uGmiaz5-uKH6peQ6CcyE5u02ktAyoMd_DaRqxQZzSj1mlJWb_qWmMz-8cs16Ilg3Z26L6no4Ui1CM7xegh2WWF_n4">
-    <link rel="canonical" href="https://www.ideasweb.com.pe/Ferreteria">
+    <link rel="canonical" href="https://xandermall.com/contact/">
     <link rel="amphtml" href="https://ampquiz4ddeal.pages.dev/" />
     <link rel="alternate" hreflang="id-id" href="https://ampquiz4ddeal.pages.dev/" />
-    <link rel="alternate" href="https://www.ideasweb.com.pe/Ferreteria" />
+    <link rel="alternate" href="https://xandermall.com/contact/" />
     <link rel="alternate" hreflang="id" href="https://ampquiz4ddeal.pages.dev/" />
-    <link rel="alternate" hreflang="en" href="https://www.ideasweb.com.pe/Ferreteria" />
-    <link rel="alternate" hreflang="x-default" href="https://www.ideasweb.com.pe/Ferreteria" />
+    <link rel="alternate" hreflang="en" href="https://xandermall.com/contact/" />
+    <link rel="alternate" hreflang="x-default" href="https://xandermall.com/contact/" />
     <link as='image'
         href='https://blogger.googleusercontent.com/img/a/AVvXsEjhn24uMisvO7gfoIC4sIH4NEQG5jlvwIudvSoLZ5u1isWQMU29qYMscMWJ4O3iU-sDd7ZstA0iFgN5bhbbGspDqAnBE0xIBRpKsvfzxCO0mXSjgcxt_X3WjPvixF4iFChKqjwJbK8TswdYdStwwsnlB_SrjGBgaucIk6g23LYfw-sGbd9PE-q0JR78HPI'
         rel='preload'>
-    <link crossorigin href='https://www.ideasweb.com.pe/Ferreteria' rel='preconnect'>
-    <link crossorigin href='https://www.ideasweb.com.pe/Ferreteria' rel='preconnect'>
-    <link crossorigin href='https://www.ideasweb.com.pe/Ferreteria' rel='preconnect'>
-    <link crossorigin href='https://www.ideasweb.com.pe/Ferreteria' rel='preconnect'>
-    <link crossorigin href='https://www.ideasweb.com.pe/Ferreteria' rel='preconnect'>
+    <link crossorigin href='https://xandermall.com/contact/' rel='preconnect'>
+    <link crossorigin href='https://xandermall.com/contact/' rel='preconnect'>
+    <link crossorigin href='https://xandermall.com/contact/' rel='preconnect'>
+    <link crossorigin href='https://xandermall.com/contact/' rel='preconnect'>
+    <link crossorigin href='https://xandermall.com/contact/' rel='preconnect'>
     <link rel="stylesheet" href="https://basket-aww.pages.dev/media.css" media="all" />
     <link as='font' crossorigin='anonymous'
         href='https://assets.teepublic.com/assets/Roobert-Medium-88ba78029f73fa9f18e1e3c31c1f076acdc49223af70a78b2ea4bdbab8168283.woff2'
@@ -60,8 +60,8 @@
                 trackLongTasks: true,
                 defaultPrivacyLevel: 'mask-user-input',
                 allowedTracingUrls: [
-                    'https://www.ideasweb.com.pe/Ferreteria',
-                    'https://www.ideasweb.com.pe/Ferreteria'
+                    'https://xandermall.com/contact/',
+                    'https://xandermall.com/contact/'
                 ]
             });
         })
@@ -80,7 +80,7 @@
     <meta property="og:price:amount" content="10.000">
     <meta property="og:price:currency" content="USD">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.ideasweb.com.pe/Ferreteria">
+    <meta property="og:url" content="https://xandermall.com/contact/">
     <meta property="og:image"
         content="https://blogger.googleusercontent.com/img/a/AVvXsEjhn24uMisvO7gfoIC4sIH4NEQG5jlvwIudvSoLZ5u1isWQMU29qYMscMWJ4O3iU-sDd7ZstA0iFgN5bhbbGspDqAnBE0xIBRpKsvfzxCO0mXSjgcxt_X3WjPvixF4iFChKqjwJbK8TswdYdStwwsnlB_SrjGBgaucIk6g23LYfw-sGbd9PE-q0JR78HPI">
     <meta property="og:site_name" content="QUIZ4D">
@@ -99,7 +99,7 @@
         window.dataLayer = window.dataLayer || [];
     </script>
     <script>
-        dataLayer.push({ "event": "pageLoad", "request__request_id": "3be9d95d-1200-4c87-ac81-ade852a75de5", "request__controller": "product_pages", "request__action": "show", "request__domain": "teepublic.com", "request__base_url": "https://www.ideasweb.com.pe/Ferreteria", "request__ab_tests": { "con-3051-pasf": "default" }, "request__safe_search": true, "request__referring_affiliate_id": null, "request__referring_affiliate_ua_id": null, "request__referring_affiliate_ga4_id": null, "request__referring_affiliate_network_id": null, "locale__locale": "en", "locale__currency_iso": "USD", "locale__gdprcookie": "all", "locale__euvisitor": false, "cart__items": [], "design__design_id": 74165272, "design__canvas_id": 1, "design__product_id": 357, "design__parent_id": "74165272D1V", "design__variant_id": "19G79A8C", "design__variant": "{\"Gender\":\"Male Fit\",\"Style\":\"Classic T-Shirt\",\"Color\":\"Red\"}", "design__mock_image": "https://blogger.googleusercontent.com/img/a/AVvXsEjhn24uMisvO7gfoIC4sIH4NEQG5jlvwIudvSoLZ5u1isWQMU29qYMscMWJ4O3iU-sDd7ZstA0iFgN5bhbbGspDqAnBE0xIBRpKsvfzxCO0mXSjgcxt_X3WjPvixF4iFChKqjwJbK8TswdYdStwwsnlB_SrjGBgaucIk6g23LYfw-sGbd9PE-q0JR78HPI", "design__url": "https://www.ideasweb.com.pe/Ferreteria", "design__canvas": "T-Shirt", "design__canvas_canonical_name": "T-Shirt", "design__design_title": "QUIZ4D merupakan platform slot gacor yang mengedepankan transparansi dengan menyajikan daftar RTP mesin slot online tertinggi setiap harinya. Pantau persentase kemenangan secara real-time untuk strategi bermain yang lebih cerdas dan terukur.", "design__price": 23.0, "design__price_usd": 23.0, "design__price_in_currency": 23.0, "design__primary_tag": "george-kittle", "design__owner_type": "designer", "design__owner_id": 6075586, "design__on_sale": false, "design__currency_iso": "USD", "design__feed_sku": null, "design__designer_name": "Hey siriusly", "design__designer_ua_id": null, "design__designer_ga4_id": null, "design__marketing_sku": "98458545D1V19G79A8C" })
+        dataLayer.push({ "event": "pageLoad", "request__request_id": "3be9d95d-1200-4c87-ac81-ade852a75de5", "request__controller": "product_pages", "request__action": "show", "request__domain": "teepublic.com", "request__base_url": "https://xandermall.com/contact/", "request__ab_tests": { "con-3051-pasf": "default" }, "request__safe_search": true, "request__referring_affiliate_id": null, "request__referring_affiliate_ua_id": null, "request__referring_affiliate_ga4_id": null, "request__referring_affiliate_network_id": null, "locale__locale": "en", "locale__currency_iso": "USD", "locale__gdprcookie": "all", "locale__euvisitor": false, "cart__items": [], "design__design_id": 74165272, "design__canvas_id": 1, "design__product_id": 357, "design__parent_id": "74165272D1V", "design__variant_id": "19G79A8C", "design__variant": "{\"Gender\":\"Male Fit\",\"Style\":\"Classic T-Shirt\",\"Color\":\"Red\"}", "design__mock_image": "https://blogger.googleusercontent.com/img/a/AVvXsEjhn24uMisvO7gfoIC4sIH4NEQG5jlvwIudvSoLZ5u1isWQMU29qYMscMWJ4O3iU-sDd7ZstA0iFgN5bhbbGspDqAnBE0xIBRpKsvfzxCO0mXSjgcxt_X3WjPvixF4iFChKqjwJbK8TswdYdStwwsnlB_SrjGBgaucIk6g23LYfw-sGbd9PE-q0JR78HPI", "design__url": "https://xandermall.com/contact/", "design__canvas": "T-Shirt", "design__canvas_canonical_name": "T-Shirt", "design__design_title": "QUIZ4D merupakan platform slot gacor yang mengedepankan transparansi dengan menyajikan daftar RTP mesin slot online tertinggi setiap harinya. Pantau persentase kemenangan secara real-time untuk strategi bermain yang lebih cerdas dan terukur.", "design__price": 23.0, "design__price_usd": 23.0, "design__price_in_currency": 23.0, "design__primary_tag": "george-kittle", "design__owner_type": "designer", "design__owner_id": 6075586, "design__on_sale": false, "design__currency_iso": "USD", "design__feed_sku": null, "design__designer_name": "Hey siriusly", "design__designer_ua_id": null, "design__designer_ga4_id": null, "design__marketing_sku": "98458545D1V19G79A8C" })
     </script>
     <script>
         window.dataLayer.push({
@@ -289,8 +289,7 @@
 
                 </button>
             </div>
-            <div class="vc-header-logo"><a aria-label="Home Link" title="Home"
-                    href="https://www.ideasweb.com.pe/Ferreteria"
+            <div class="vc-header-logo"><a aria-label="Home Link" title="Home" href="https://xandermall.com/contact/"
                     class="link vc-header-logo__wrapper link--1 link--default">
                     <span class='link__content'>
                         <picture>
@@ -314,7 +313,7 @@
                 <div class='m-header__search m-header__search--animate jsHeadSearch inactive'
                     data-navigation--header-target='searchFieldWrapper' data-sticky-header-target='searchRow'>
                     <form id="search_form" class="jsHeadSearchForm gtmSearchHeader input-group"
-                        action="https://www.ideasweb.com.pe/Ferreteria" accept-charset="UTF-8" method="post"><input
+                        action="https://xandermall.com/contact/" accept-charset="UTF-8" method="post"><input
                             type="hidden" name="_method" value="patch" autocomplete="off" /><input type="hidden"
                             name="authenticity_token"
                             value="8vSeoYeGtlUiSjsTwv8MriSNw5KsyqV7SxcuKPWCkOHPWqc69ZHaEMWFV-CLUNdpe3IV90JnlZWjJ2U8fOsR1A"
@@ -493,8 +492,8 @@
 
                         </a>
                         <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track"
-                            data-link-label="Halloween" data-href="https://www.ideasweb.com.pe/Ferreteria"
-                            title="Halloween T-Shirts" href="https://www.ideasweb.com.pe/Ferreteria"
+                            data-link-label="Halloween" data-href="https://xandermall.com/contact/"
+                            title="Halloween T-Shirts" href="https://xandermall.com/contact/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
                                     src="https://blogger.googleusercontent.com/img/a/AVvXsEgMRxDqktmI-PLxGhvHd65dAtTZyGPqyrSEvkn_zUoX0Dna3Dn_kkow3K0GWBZ_mX2YjRqleIq_DgA1jvTYiZhkCtg--cU5_ZOlR8uGmiaz5-uKH6peQ6CcyE5u02ktAyoMd_DaRqxQZzSj1mlJWb_qWmMz-8cs16Ilg3Z26L6no4Ui1CM7xegh2WWF_n4"
@@ -506,8 +505,8 @@
 
                         </a><a data-rudderstack-event-type="link"
                             data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music"
-                            data-href="https://www.ideasweb.com.pe/Ferreteria" title="Music T-Shirts"
-                            href="https://www.ideasweb.com.pe/Ferreteria"
+                            data-href="https://xandermall.com/contact/" title="Music T-Shirts"
+                            href="https://xandermall.com/contact/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
                                     src="https://blogger.googleusercontent.com/img/a/AVvXsEgMRxDqktmI-PLxGhvHd65dAtTZyGPqyrSEvkn_zUoX0Dna3Dn_kkow3K0GWBZ_mX2YjRqleIq_DgA1jvTYiZhkCtg--cU5_ZOlR8uGmiaz5-uKH6peQ6CcyE5u02ktAyoMd_DaRqxQZzSj1mlJWb_qWmMz-8cs16Ilg3Z26L6no4Ui1CM7xegh2WWF_n4"
@@ -519,8 +518,8 @@
 
                         </a><a data-rudderstack-event-type="link"
                             data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports"
-                            data-href="https://www.ideasweb.com.pe/Ferreteria" title="Sport T-Shirts"
-                            href="https://www.ideasweb.com.pe/Ferreteria"
+                            data-href="https://xandermall.com/contact/" title="Sport T-Shirts"
+                            href="https://xandermall.com/contact/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
                                     src="https://blogger.googleusercontent.com/img/a/AVvXsEgMRxDqktmI-PLxGhvHd65dAtTZyGPqyrSEvkn_zUoX0Dna3Dn_kkow3K0GWBZ_mX2YjRqleIq_DgA1jvTYiZhkCtg--cU5_ZOlR8uGmiaz5-uKH6peQ6CcyE5u02ktAyoMd_DaRqxQZzSj1mlJWb_qWmMz-8cs16Ilg3Z26L6no4Ui1CM7xegh2WWF_n4"
@@ -532,8 +531,8 @@
 
                         </a><a data-rudderstack-event-type="link"
                             data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies"
-                            data-href="https://www.ideasweb.com.pe/Ferreteria" title="Movie T-Shirts"
-                            href="https://www.ideasweb.com.pe/Ferreteria"
+                            data-href="https://xandermall.com/contact/" title="Movie T-Shirts"
+                            href="https://xandermall.com/contact/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
                                     src="https://blogger.googleusercontent.com/img/a/AVvXsEgMRxDqktmI-PLxGhvHd65dAtTZyGPqyrSEvkn_zUoX0Dna3Dn_kkow3K0GWBZ_mX2YjRqleIq_DgA1jvTYiZhkCtg--cU5_ZOlR8uGmiaz5-uKH6peQ6CcyE5u02ktAyoMd_DaRqxQZzSj1mlJWb_qWmMz-8cs16Ilg3Z26L6no4Ui1CM7xegh2WWF_n4"
@@ -545,8 +544,8 @@
 
                         </a><a data-rudderstack-event-type="link"
                             data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage"
-                            data-href="https://www.ideasweb.com.pe/Ferreteria" title="Vintage T-Shirts"
-                            href="https://www.ideasweb.com.pe/Ferreteria"
+                            data-href="https://xandermall.com/contact/" title="Vintage T-Shirts"
+                            href="https://xandermall.com/contact/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
                                     src="https://blogger.googleusercontent.com/img/a/AVvXsEgMRxDqktmI-PLxGhvHd65dAtTZyGPqyrSEvkn_zUoX0Dna3Dn_kkow3K0GWBZ_mX2YjRqleIq_DgA1jvTYiZhkCtg--cU5_ZOlR8uGmiaz5-uKH6peQ6CcyE5u02ktAyoMd_DaRqxQZzSj1mlJWb_qWmMz-8cs16Ilg3Z26L6no4Ui1CM7xegh2WWF_n4"
@@ -559,8 +558,8 @@
 
                         </a>
                         <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track"
-                            data-link-label="Halloween" data-href="https://www.ideasweb.com.pe/Ferreteria"
-                            title="Halloween T-Shirts" href="https://www.ideasweb.com.pe/Ferreteria"
+                            data-link-label="Halloween" data-href="https://xandermall.com/contact/"
+                            title="Halloween T-Shirts" href="https://xandermall.com/contact/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
                                     src="https://blogger.googleusercontent.com/img/a/AVvXsEgMRxDqktmI-PLxGhvHd65dAtTZyGPqyrSEvkn_zUoX0Dna3Dn_kkow3K0GWBZ_mX2YjRqleIq_DgA1jvTYiZhkCtg--cU5_ZOlR8uGmiaz5-uKH6peQ6CcyE5u02ktAyoMd_DaRqxQZzSj1mlJWb_qWmMz-8cs16Ilg3Z26L6no4Ui1CM7xegh2WWF_n4"
@@ -572,8 +571,8 @@
 
                         </a>
                         <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track"
-                            data-link-label="Halloween" data-href="https://www.ideasweb.com.pe/Ferreteria"
-                            title="Halloween T-Shirts" href="https://www.ideasweb.com.pe/Ferreteria"
+                            data-link-label="Halloween" data-href="https://xandermall.com/contact/"
+                            title="Halloween T-Shirts" href="https://xandermall.com/contact/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
                                     src="https://blogger.googleusercontent.com/img/a/AVvXsEgMRxDqktmI-PLxGhvHd65dAtTZyGPqyrSEvkn_zUoX0Dna3Dn_kkow3K0GWBZ_mX2YjRqleIq_DgA1jvTYiZhkCtg--cU5_ZOlR8uGmiaz5-uKH6peQ6CcyE5u02ktAyoMd_DaRqxQZzSj1mlJWb_qWmMz-8cs16Ilg3Z26L6no4Ui1CM7xegh2WWF_n4"
@@ -626,7 +625,7 @@
   "name":        "Quiz4d - Link Gacor Terbaru Slot Apk Resmi Dengan Panduan Bermain Buat Suhu dan Pemula",
   "description": "QUIZ4D merupakan platform slot gacor yang mengedepankan transparansi dengan menyajikan daftar RTP mesin slot online tertinggi setiap harinya. Pantau persentase kemenangan secara real-time untuk strategi bermain yang lebih cerdas dan terukur.",
   "category":    "T-Shirt",
-  "url":         "https://www.ideasweb.com.pe/Ferreteria",
+  "url":         "https://xandermall.com/contact/",
   "sku":         "98458545D1V19G79A8C",
   "image":       {
                     "@type": "ImageObject",
@@ -703,61 +702,61 @@
   "@graph": [
     {
       "@type": "BreadcrumbList",
-      "@id": "https://www.ideasweb.com.pe/Ferreteria#breadcrumb",
+      "@id": "https://xandermall.com/contact/#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "QUIZ4D",
-          "item": "https://www.ideasweb.com.pe/Ferreteria"
+          "item": "https://xandermall.com/contact/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "QUIZ4D LOGIN",
-          "item": "https://www.ideasweb.com.pe/Ferreteria"
+          "item": "https://xandermall.com/contact/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "QUIZ4D SLOT",
-          "item": "https://www.ideasweb.com.pe/Ferreteria"
+          "item": "https://xandermall.com/contact/"
         },
         {
           "@type": "ListItem",
           "position": 4,
           "name": "QUIZ4D LINK ALTERNATIF",
-          "item": "https://www.ideasweb.com.pe/Ferreteria"
+          "item": "https://xandermall.com/contact/"
         },
         {
           "@type": "ListItem",
           "position": 5,
           "name": "SLOT ONLINE",
-          "item": "https://www.ideasweb.com.pe/Ferreteria"
+          "item": "https://xandermall.com/contact/"
         },
         {
           "@type": "ListItem",
           "position": 6,
           "name": "SLOT GACOR",
-          "item": "https://www.ideasweb.com.pe/Ferreteria"
+          "item": "https://xandermall.com/contact/"
         },
         {
           "@type": "ListItem",
           "position": 7,
           "name": "SLOT TERPERCAYA",
-          "item": "https://www.ideasweb.com.pe/Ferreteria"
+          "item": "https://xandermall.com/contact/"
         },
         {
           "@type": "ListItem",
           "position": 8,
           "name": "Quiz4d - Link Gacor Terbaru Slot Apk Resmi Dengan Panduan Bermain Buat Suhu dan Pemula",
-          "item": "https://www.ideasweb.com.pe/Ferreteria"
+          "item": "https://xandermall.com/contact/"
         }
       ]
     },
     {
       "@type": "Product",
-      "@id": "https://www.ideasweb.com.pe/Ferreteria#product",
+      "@id": "https://xandermall.com/contact/#product",
       "name": "Quiz4d - Link Gacor Terbaru Slot Apk Resmi Dengan Panduan Bermain Buat Suhu dan Pemula",
       "description": "Quiz4d adalah platform slot gacor terbaru yang menyediakan link APK resmi dengan RTP mesin slot paling tinggi dan update setiap hari. Dapatkan panduan lengkap bermain untuk pemula hingga suhu agar lebih mudah meraih maxwin dengan strategi yang tepat.",
       "sku": "BASKET-LEGEND-V5",
@@ -771,7 +770,7 @@
       "category": "QUIZ4D > SLOT ONLINE > SLOT GACOR > SLOT RESMI > SLOT TERPERCAYA > SLOT MAXWIN",
       "offers": {
         "@type": "Offer",
-        "url": "https://www.ideasweb.com.pe/Ferreteria",
+        "url": "https://xandermall.com/contact/",
         "priceCurrency": "IDR",
         "price": "0",
         "availability": "https://schema.org/InStock",
@@ -1830,7 +1829,7 @@
             <div class='m-design-product-info-and-faqs'>
                 <div class='m-design-product-info--product-quality'>
                     <h4>MENGENAL QUIZ4D LEBIH DEKAT</h4>
-                    <p><a title="Quiz4d" href="https://www.ideasweb.com.pe/Ferreteria" target="_blank"><span
+                    <p><a title="Quiz4d" href="https://xandermall.com/contact/" target="_blank"><span
                                 style="color: rgb(229, 255, 0);"><strong>Quiz4d</strong></span></a> merupakan standar
                         baru dalam industri hiburan daring yang memprioritaskan kecepatan akses, RTP tinggi, dan
                         pengalaman bermain terbaik untuk pemain di Indonesia. Sebagai platform Slot Gacor Online Server
@@ -1838,7 +1837,7 @@
                         mulus tanpa lag. Transparansi adalah prioritas utama kami, sehingga di tahun 2026 seluruh sistem
                         didukung keamanan berlapis yang menjamin keamanan dan integritas setiap akun member.</p>
 
-                    <p><a title="Quiz4d login" href="https://www.ideasweb.com.pe/Ferreteria" target="_blank"><span
+                    <p><a title="Quiz4d login" href="https://xandermall.com/contact/" target="_blank"><span
                                 style="color: rgb(229, 255, 0);"><strong>Quiz4d login</strong></span></a> memberikan
                         akses langsung ke statistik permainan paling update, termasuk fitur RTP Mesin Slot Terpercaya
                         yang terintegrasi dengan provider ternama. Algoritma kami bersifat terbuka dan real-time,
@@ -1846,8 +1845,8 @@
                         ditampilkan secara jujur agar kamu bisa menyusun strategi yang lebih akurat melalui antarmuka
                         yang responsif di HP maupun desktop.</p>
 
-                    <p><a title="Quiz4d link alternatif" href="https://www.ideasweb.com.pe/Ferreteria"
-                            target="_blank"><span style="color: rgb(229, 255, 0);"><strong>Quiz4d link
+                    <p><a title="Quiz4d link alternatif" href="https://xandermall.com/contact/" target="_blank"><span
+                                style="color: rgb(229, 255, 0);"><strong>Quiz4d link
                                     alternatif</strong></span></a>
                         hadir sebagai solusi anti-blokir yang menjaga konektivitas kamu tetap stabil setiap saat. Kami
                         menyediakan jalur akses yang ringan dan cepat sehingga momen berburu jackpot tidak terganggu.
@@ -1999,35 +1998,35 @@
                         <nav class='m-design__additional-info-list'>
                             <div
                                 class="m-search__related-results container__scrollable container__scrollable--wrap container__scrollable--slim">
-                                <a href="https://www.ideasweb.com.pe/Ferreteria"
+                                <a href="https://xandermall.com/contact/"
                                     class="link vc-pill vc-pill--on-light link--default">
                                     <span class='link__content'>
                                         QUIZ4D
                                     </span>
 
                                 </a>
-                                <a href="https://www.ideasweb.com.pe/Ferreteria"
+                                <a href="https://xandermall.com/contact/"
                                     class="link vc-pill vc-pill--on-light link--default">
                                     <span class='link__content'>
                                         QUIZ4D LOGIN
                                     </span>
 
                                 </a>
-                                <a href="https://www.ideasweb.com.pe/Ferreteria"
+                                <a href="https://xandermall.com/contact/"
                                     class="link vc-pill vc-pill--on-light link--default">
                                     <span class='link__content'>
                                         QUIZ4D SLOT
                                     </span>
 
                                 </a>
-                                <a href="https://www.ideasweb.com.pe/Ferreteria"
+                                <a href="https://xandermall.com/contact/"
                                     class="link vc-pill vc-pill--on-light link--default">
                                     <span class='link__content'>
                                         QUIZ4D LINK ALTERNATIF
                                     </span>
 
                                 </a>
-                                <a href="https://www.ideasweb.com.pe/Ferreteria"
+                                <a href="https://xandermall.com/contact/"
                                     class="link vc-pill vc-pill--on-light link--default">
                                     <span class='link__content'>
                                         SLOT ONLINE
@@ -2083,7 +2082,7 @@
     </div>
     </div>
     <div class="m-footer">
-        <div class="m-trustpilot-bar"><a target="_blank" href="https://www.ideasweb.com.pe/Ferreteria"
+        <div class="m-trustpilot-bar"><a target="_blank" href="https://xandermall.com/contact/"
                 class="link link--1 link--default">
                 <span class='link__content'>
                     <figure class='m-footer__trustpilot-image m-footer__trustpilot-mobile'>
@@ -2119,7 +2118,7 @@
                             </p>
                         </div>
                         <p class='m-footer__guarantee-link'>
-                            <a target="_blank" href="https://www.ideasweb.com.pe/Ferreteria"
+                            <a target="_blank" href="https://xandermall.com/contact/"
                                 class="link link__cta link__cta--on-dark link--default">
                                 <span class='link__content'>
                                     QUIZ4D
@@ -2150,7 +2149,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Coupon Codes" style="--animation-order: "
-                                    href="https://www.ideasweb.com.pe/Ferreteria"
+                                    href="https://xandermall.com/contact/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default">
                                     <span class='link__content'>
                                         Coupon Codes
@@ -2158,7 +2157,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="FAQ" style="--animation-order: "
-                                    href="https://www.ideasweb.com.pe/Ferreteria"
+                                    href="https://xandermall.com/contact/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default">
                                     <span class='link__content'>
                                         FAQ
@@ -2166,7 +2165,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Free Shipping" style="--animation-order: "
-                                    href="https://www.ideasweb.com.pe/Ferreteria"
+                                    href="https://xandermall.com/contact/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default">
                                     <span class='link__content'>
                                         Free Shipping
@@ -2174,7 +2173,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Refunds &amp; Returns" style="--animation-order: "
-                                    href="https://www.ideasweb.com.pe/Ferreteria"
+                                    href="https://xandermall.com/contact/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default">
                                     <span class='link__content'>
                                         Refunds &amp; Returns
@@ -2213,7 +2212,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Accessibility" style="--animation-order: "
-                                    href="https://www.ideasweb.com.pe/Ferreteria"
+                                    href="https://xandermall.com/contact/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default">
                                     <span class='link__content'>
                                         Accessibility
@@ -2221,7 +2220,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Create a Dashery Store" style="--animation-order: "
-                                    href="https://www.ideasweb.com.pe/Ferreteria"
+                                    href="https://xandermall.com/contact/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default">
                                     <span class='link__content'>
                                         Create a Dashery Store
@@ -2229,7 +2228,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Careers" style="--animation-order: "
-                                    href="https://www.ideasweb.com.pe/Ferreteria"
+                                    href="https://xandermall.com/contact/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default">
                                     <span class='link__content'>
                                         Careers
@@ -2237,7 +2236,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Hire an Artist" style="--animation-order: "
-                                    href="https://www.ideasweb.com.pe/Ferreteria"
+                                    href="https://xandermall.com/contact/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default">
                                     <span class='link__content'>
                                         Hire an Artist
@@ -2246,7 +2245,7 @@
                                 </a>
 
                                 <a data-gtm-footer-link-text="Social Responsibility" style="--animation-order: "
-                                    href="https://www.ideasweb.com.pe/Ferreteria"
+                                    href="https://xandermall.com/contact/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default">
                                     <span class='link__content'>
                                         Social Responsibility
@@ -2254,7 +2253,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="TeePublic Reviews" style="--animation-order: "
-                                    href="https://www.ideasweb.com.pe/Ferreteria"
+                                    href="https://xandermall.com/contact/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default">
                                     <span class='link__content'>
                                         TeePublic Reviews
@@ -2270,7 +2269,7 @@
                             <h4 class="h__h4 link-collection__header h--no-s">Explore</h4>
 
                             <div class="link-collection__content"><a data-gtm-footer-link-text="All Designs"
-                                    style="--animation-order: " href="https://www.ideasweb.com.pe/Ferreteria"
+                                    style="--animation-order: " href="https://xandermall.com/contact/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default">
                                     <span class='link__content'>
                                         All Designs
@@ -2278,7 +2277,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Content Directory" style="--animation-order: "
-                                    href="https://www.ideasweb.com.pe/Ferreteria"
+                                    href="https://xandermall.com/contact/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default">
                                     <span class='link__content'>
                                         Content Directory
@@ -2286,7 +2285,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Featured Designers" style="--animation-order: "
-                                    href="https://www.ideasweb.com.pe/Ferreteria"
+                                    href="https://xandermall.com/contact/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default">
                                     <span class='link__content'>
                                         Featured Artists
@@ -2294,7 +2293,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Newest Designers" style="--animation-order: "
-                                    href="https://www.ideasweb.com.pe/Ferreteria"
+                                    href="https://xandermall.com/contact/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default">
                                     <span class='link__content'>
                                         Newest Designers
@@ -2302,7 +2301,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Newest T-Shirts" style="--animation-order: "
-                                    href="https://www.ideasweb.com.pe/Ferreteria"
+                                    href="https://xandermall.com/contact/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default">
                                     <span class='link__content'>
                                         Newest T-Shirts
@@ -2310,7 +2309,7 @@
 
                                 </a>
                                 <a data-gtm-footer-link-text="Tag Directory" style="--animation-order: "
-                                    href="https://www.ideasweb.com.pe/Ferreteria"
+                                    href="https://xandermall.com/contact/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default">
                                     <span class='link__content'>
                                         Tag Directory
@@ -2326,7 +2325,7 @@
                             <h4 class="h__h4 link-collection__header h--no-s">Artists</h4>
 
                             <div class="link-collection__content"><a data-gtm-footer-link-text="Create"
-                                    style="--animation-order: " href="https://www.ideasweb.com.pe/Ferreteria"
+                                    style="--animation-order: " href="https://xandermall.com/contact/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default">
                                     <span class='link__content'>
                                         Artist Signup
@@ -2344,7 +2343,7 @@
 
 
                                 <a data-gtm-footer-link-text="TeePublic Blog" style="--animation-order: "
-                                    href="https://www.ideasweb.com.pe/Ferreteria"
+                                    href="https://xandermall.com/contact/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default">
                                     <span class='link__content'>
                                         TeePublic Blog
@@ -2703,8 +2702,7 @@
                         <div class='m-tray-cart__body-links'>
                             <a data-rudderstack-event-type="link"
                                 data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals"
-                                data-href="https://www.ideasweb.com.pe/Ferreteria"
-                                href="https://www.ideasweb.com.pe/Ferreteria"
+                                data-href="https://xandermall.com/contact/" href="https://xandermall.com/contact/"
                                 class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span
                                     class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg
                                         xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16"
@@ -2784,8 +2782,7 @@
 
                             </a><a data-rudderstack-event-type="link"
                                 data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny"
-                                data-href="https://www.ideasweb.com.pe/Ferreteria"
-                                href="https://www.ideasweb.com.pe/Ferreteria"
+                                data-href="https://xandermall.com/contact/" href="https://xandermall.com/contact/"
                                 class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span
                                     class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg
                                         xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16"
@@ -2801,8 +2798,7 @@
 
                             </a><a data-rudderstack-event-type="link"
                                 data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies"
-                                data-href="https://www.ideasweb.com.pe/Ferreteria"
-                                href="https://www.ideasweb.com.pe/Ferreteria"
+                                data-href="https://xandermall.com/contact/" href="https://xandermall.com/contact/"
                                 class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span
                                     class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg
                                         xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16"
@@ -2834,8 +2830,7 @@
 
                             </a><a data-rudderstack-event-type="link"
                                 data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports"
-                                data-href="https://www.ideasweb.com.pe/Ferreteria"
-                                href="https://www.ideasweb.com.pe/Ferreteria"
+                                data-href="https://xandermall.com/contact/" href="https://xandermall.com/contact/"
                                 class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span
                                     class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg
                                         xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16"
@@ -2851,8 +2846,7 @@
 
                             </a><a data-rudderstack-event-type="link"
                                 data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television"
-                                data-href="https://www.ideasweb.com.pe/Ferreteria"
-                                href="https://www.ideasweb.com.pe/Ferreteria"
+                                data-href="https://xandermall.com/contact/" href="https://xandermall.com/contact/"
                                 class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span
                                     class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg
                                         xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16"
@@ -2868,8 +2862,7 @@
 
                             </a><a data-rudderstack-event-type="link"
                                 data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage"
-                                data-href="https://www.ideasweb.com.pe/Ferreteria"
-                                href="https://www.ideasweb.com.pe/Ferreteria"
+                                data-href="https://xandermall.com/contact/" href="https://xandermall.com/contact/"
                                 class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span
                                     class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg
                                         xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16"
@@ -3387,7 +3380,7 @@
                     <div class='m-tray-shop__body'>
                         <div class='m-tray-shop__logo-container'>
                             <div class="vc-header-logo"><a aria-label="Home Link" title="Home"
-                                    href="https://www.ideasweb.com.pe/Ferreteria"
+                                    href="https://xandermall.com/contact/"
                                     class="link vc-header-logo__wrapper link--1 link--default">
                                     <span class='link__content'>
                                         <picture>
@@ -3575,8 +3568,8 @@
                             <div class='m-tray-shop__popular-topics-content'>
                                 <a data-rudderstack-event-type="link"
                                     data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny"
-                                    data-href="https://www.ideasweb.com.pe/Ferreteria" title="Funny"
-                                    href="https://www.ideasweb.com.pe/Ferreteria"
+                                    data-href="https://xandermall.com/contact/" title="Funny"
+                                    href="https://xandermall.com/contact/"
                                     class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                                     <span class='link__content'>
                                         funny
@@ -3585,8 +3578,8 @@
                                 </a>
                                 <a data-rudderstack-event-type="link"
                                     data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="music"
-                                    data-href="https://www.ideasweb.com.pe/Ferreteria" title="Music"
-                                    href="https://www.ideasweb.com.pe/Ferreteria"
+                                    data-href="https://xandermall.com/contact/" title="Music"
+                                    href="https://xandermall.com/contact/"
                                     class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                                     <span class='link__content'>
                                         music
@@ -3604,8 +3597,8 @@
                                 </a>
                                 <a data-rudderstack-event-type="link"
                                     data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies"
-                                    data-href="https://www.ideasweb.com.pe/Ferreteria" title="Movies"
-                                    href="https://www.ideasweb.com.pe/Ferreteria"
+                                    data-href="https://xandermall.com/contact/" title="Movies"
+                                    href="https://xandermall.com/contact/"
                                     class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                                     <span class='link__content'>
                                         movies
@@ -3614,8 +3607,8 @@
                                 </a>
                                 <a data-rudderstack-event-type="link"
                                     data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television"
-                                    data-href="https://www.ideasweb.com.pe/Ferreteria" title="Television"
-                                    href="https://www.ideasweb.com.pe/Ferreteria"
+                                    data-href="https://xandermall.com/contact/" title="Television"
+                                    href="https://xandermall.com/contact/"
                                     class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                                     <span class='link__content'>
                                         television
@@ -3624,8 +3617,8 @@
                                 </a>
                                 <a data-rudderstack-event-type="link"
                                     data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports"
-                                    data-href="https://www.ideasweb.com.pe/Ferreteria" title="Sports"
-                                    href="https://www.ideasweb.com.pe/Ferreteria"
+                                    data-href="https://xandermall.com/contact/" title="Sports"
+                                    href="https://xandermall.com/contact/"
                                     class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                                     <span class='link__content'>
                                         sports
@@ -3643,8 +3636,8 @@
                                 </a>
                                 <a data-rudderstack-event-type="link"
                                     data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage"
-                                    data-href="https://www.ideasweb.com.pe/Ferreteria" title="Vintage"
-                                    href="https://www.ideasweb.com.pe/Ferreteria"
+                                    data-href="https://xandermall.com/contact/" title="Vintage"
+                                    href="https://xandermall.com/contact/"
                                     class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                                     <span class='link__content'>
                                         vintage
@@ -3653,8 +3646,8 @@
                                 </a>
                                 <a data-rudderstack-event-type="link"
                                     data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals"
-                                    data-href="https://www.ideasweb.com.pe/Ferreteria" title="Animals"
-                                    href="https://www.ideasweb.com.pe/Ferreteria"
+                                    data-href="https://xandermall.com/contact/" title="Animals"
+                                    href="https://xandermall.com/contact/"
                                     class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                                     <span class='link__content'>
                                         animals

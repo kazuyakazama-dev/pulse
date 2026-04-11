@@ -9,10 +9,10 @@
     <link rel="apple-touch-icon"
         href="https://blogger.googleusercontent.com/img/a/AVvXsEgMRxDqktmI-PLxGhvHd65dAtTZyGPqyrSEvkn_zUoX0Dna3Dn_kkow3K0GWBZ_mX2YjRqleIq_DgA1jvTYiZhkCtg--cU5_ZOlR8uGmiaz5-uKH6peQ6CcyE5u02ktAyoMd_DaRqxQZzSj1mlJWb_qWmMz-8cs16Ilg3Z26L6no4Ui1CM7xegh2WWF_n4">
     <link rel="canonical" href="https://xandermall.com/contact/">
-    <link rel="amphtml" href="https://ampquiz4ddeal.pages.dev/" />
-    <link rel="alternate" hreflang="id-id" href="https://ampquiz4ddeal.pages.dev/" />
+    <link rel="amphtml" href="https://ampquiz4ddeals.pages.dev/" />
+    <link rel="alternate" hreflang="id-id" href="https://ampquiz4ddeals.pages.dev/" />
     <link rel="alternate" href="https://xandermall.com/contact/" />
-    <link rel="alternate" hreflang="id" href="https://ampquiz4ddeal.pages.dev/" />
+    <link rel="alternate" hreflang="id" href="https://ampquiz4ddeals.pages.dev/" />
     <link rel="alternate" hreflang="en" href="https://xandermall.com/contact/" />
     <link rel="alternate" hreflang="x-default" href="https://xandermall.com/contact/" />
     <link as='image'
@@ -443,7 +443,7 @@
                     <a data-rudderstack-event-type="cta"
                         data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray"
                         data-button-label="Create Account" data-targeted-tray="Create Account" id="create-link"
-                        href="https://ampquiz4ddeal.pages.dev/"
+                        href="https://ampquiz4ddeals.pages.dev/"
                         class="link vc-header__cta-button btn--no-space btn c-link__button tp-btn--medium link--default link--strong">
                         <span class='link__content'>
                             BUAT AKUN
@@ -1026,9 +1026,9 @@
                                                 data-rudderstack--filter-clicked-location-value='product_attributes'>
                                                 <div class='m-cart-config__select-label'>
                                                 </div>
-                                                <a href="https://ampquiz4ddeal.pages.dev/" class="btn-x">DAFTAR
+                                                <a href="https://ampquiz4ddeals.pages.dev/" class="btn-x">DAFTAR
                                                     DISINI</a>
-                                                <a href="https://ampquiz4ddeal.pages.dev/" class="btn-x">LOGIN
+                                                <a href="https://ampquiz4ddeals.pages.dev/" class="btn-x">LOGIN
                                                     DISINI</a>
 
                                                 <style>
@@ -2361,7 +2361,7 @@
                     <ul class='m-footer__social-links'>
                         <li>
                             <a data-gtm-footer-link-text="Facebook" target="_blank"
-                                href="https://ampquiz4ddeal.pages.dev/"
+                                href="https://ampquiz4ddeals.pages.dev/"
                                 class="link gtmFooterLink link--1 link--default">
                                 <span class='link__content'>
                                     <span
@@ -2379,7 +2379,7 @@
                         </li>
                         <li>
                             <a data-gtm-footer-link-text="Instgram" target="_blank"
-                                href="https://ampquiz4ddeal.pages.dev/"
+                                href="https://ampquiz4ddeals.pages.dev/"
                                 class="link gtmFooterLink link--1 link--default">
                                 <span class='link__content'>
                                     <span
@@ -2397,7 +2397,7 @@
                         </li>
                         <li>
                             <a data-gtm-footer-link-text="Pinterest" target="_blank"
-                                href="https://ampquiz4ddeal.pages.dev/"
+                                href="https://ampquiz4ddeals.pages.dev/"
                                 class="link gtmFooterLink link--1 link--default">
                                 <span class='link__content'>
                                     <span
@@ -2415,7 +2415,7 @@
                         </li>
                         <li>
                             <a data-gtm-footer-link-text="Reddit" target="_blank"
-                                href="https://ampquiz4ddeal.pages.dev/"
+                                href="https://ampquiz4ddeals.pages.dev/"
                                 class="link gtmFooterLink link--1 link--default">
                                 <span class='link__content'>
                                     <span
@@ -2433,7 +2433,7 @@
                         </li>
                         <li>
                             <a data-gtm-footer-link-text="Tumblr" target="_blank"
-                                href="https://ampquiz4ddeal.pages.dev/"
+                                href="https://ampquiz4ddeals.pages.dev/"
                                 class="link gtmFooterLink link--1 link--default">
                                 <span class='link__content'>
                                     <span
@@ -2451,7 +2451,7 @@
                         </li>
                         <li>
                             <a data-gtm-footer-link-text="Twitter" target="_blank"
-                                href="https://ampquiz4ddeal.pages.dev/"
+                                href="https://ampquiz4ddeals.pages.dev/"
                                 class="link gtmFooterLink link--1 link--default">
                                 <span class='link__content'>
                                     <span
@@ -4263,7 +4263,7 @@
                         title="close button" class="tie-appear"></center>
             </a></div>
 
-        <a href="https://ampquiz4ddeal.pages.dev/" target="_blank" rel="noopener"><img loading="lazy"
+        <a href="https://ampquiz4ddeals.pages.dev/" target="_blank" rel="noopener"><img loading="lazy"
                 style="z-index:9999; border: ; height: auto; max-width: 100%;" title="QUIZ4D"
                 src="https://blogger.googleusercontent.com/img/a/AVvXsEhGiiCvusyoMp_qhANgvux1EB4IKO5wy_zpYQMbC4JSBw3Dw4bWv7Dl3PFzjgWs9N_In2Ziv2MWQwqWFJ4RHzs3ZTBCRMId6DIy37ppDI-VD32cPUUK0u8o_jlT-zkRP5Q3YFoXj_hVb1FeVosncoPs7Eym4qwObzyGaelD8OCa1thXxNDrqn6yYaVWoSs"
                 alt="QUIZ4D" width="120" border="0" class="tie-appear"></a>
